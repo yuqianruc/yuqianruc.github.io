@@ -83,8 +83,8 @@ author:
   name             : "Yuqian Zhang"
   avatar           : "3.jpg"
   bio              : "Assistant Professor"
-  location         : #"Beijing"
-  employer         : "Renmin University of China"
+  location         : "Beijing"
+  employer         : #"Renmin University of China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=afibsbcAAAAJ"
   email            : 
