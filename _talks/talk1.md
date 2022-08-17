@@ -3,7 +3,6 @@ title: "High-dimensional semi-supervised learning: in search for optimal inferen
 collection: talks
 type: "Poster session"
 venue: "UC San Diego"
-date: 2012-03-01
-location: "San Diego, California, U.S."
+date: 2019-01
 ---
 
