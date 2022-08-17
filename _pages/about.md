@@ -14,7 +14,7 @@ I will join the Institute of Statistics and Big Data at the Renmin University of
 
 My research focuses on theory and methodology in causal inference, missing data problems, semi-supervised inference, high-dimensional statistics, and machine learning.
 
-My CV can be found [here]({{site.url}}/CV_Yuqian Zhang.pdf).
+My CV can be found [here]({{site.url}}/CV_Yuqian.pdf).
 
 Contact Information
 ======
