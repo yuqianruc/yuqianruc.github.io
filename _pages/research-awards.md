@@ -5,7 +5,7 @@ permalink: /research-awards/
 author_profile: true
 ---
 
-<font size="5">Research Interests</font>
+Research Interests
 ------
 <ul>
     <li>Causal Inference and Missing Data Problems</li>
@@ -15,7 +15,7 @@ author_profile: true
     <li>Dynamic Treatment Regimes and Reinforcement Learning</li>
 </ul>
 
-<font size="5">Publications and Preprints</font>
+Publications and Preprints
 ------
 <ul>
     <li><b>Yuqian Zhang</b>, Jelena Bradic, and Weijie Ji (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818.</li>
@@ -25,7 +25,7 @@ author_profile: true
 </ul>
 (# alphabetical order, * co-first author)
 
-<font size="5">Awards and Honors</font>
+Awards and Honors
 ------
 <ul>
     <li>Best Student Paper Award (Nonparametric Statistics Section), American Statistical Association, 2021.</li>
@@ -33,7 +33,7 @@ author_profile: true
     <li>Friends of the International Center Scholarship, UC San Diego, 2019.</li>
 </ul>
 
-<font size="5">Presentations</font>
+Presentations
 ------
 <ul>
     <li>Invited session at the 5th International Conference on Econometrics and Statistics, June 2022.</li>
@@ -42,7 +42,7 @@ author_profile: true
     <li>Topic-contributed session at 2021 Joint Statistics Meetings, August 2021. </li>
 </ul>
 
-<font size="5">Service Activities</font>
+Service Activities
 ------
 <ul>
     <li>Reviewers: Journal of the American Statistical Association (2), Biostatistics, Journal of Nonparametric Statistics, Statistics, Lifetime Data Analysis.</li>
