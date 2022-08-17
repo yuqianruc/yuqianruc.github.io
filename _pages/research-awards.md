@@ -8,20 +8,22 @@ author_profile: true
 Research Interests
 ------
 
-Causal Inference and Missing Data Problems
-Semi-supervised Inference
-High Dimensional Statistics
-Machine Learning
-Dynamic Treatment Regimes and Reinforcement Learning
+<p>Research Interests:</p>
+
+<ul>
+    <li>Causal Inference and Missing Data Problems</li>
+    <li>Semi-supervised Inference</li>
+    <li>High Dimensional Statistics</li>
+    <li>Machine Learning</li>
+    <li>Dynamic Treatment Regimes and Reinforcement Learning</li>
+</ul>
+
+
+
+
+
+
+
 
 Presentations
 ------
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
