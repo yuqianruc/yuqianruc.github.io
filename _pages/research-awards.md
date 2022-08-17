@@ -14,6 +14,7 @@ author_profile: true
     <li>Dynamic Treatment Regimes and Reinforcement Learning</li>
 </ul>
 
+
 <b>Publications and Preprints</b>
 <ul>
     <li><b>Yuqian Zhang</b>, Jelena Bradic, and Weijie Ji (2021). Dynamic treatment effects: high-dimensional inference under model misspecification. arXiv preprint arxiv:2111.06818.</li>
@@ -23,12 +24,14 @@ author_profile: true
 </ul>
 (# alphabetical order, * co-first author)
 
+
 <b>Awards and Honors</b>
 <ul>
     <li>Best Student Paper Award (Nonparametric Statistics Section), American Statistical Association, 2021.</li>
     <li>Teaching Assistant Award, Department of Mathematics, UC San Diego, 2019-2020.</li>
     <li>Friends of the International Center Scholarship, UC San Diego, 2019.</li>
 </ul>
+
 
 <b>Presentations</b>
 <ul>
@@ -37,6 +40,7 @@ author_profile: true
     <li>Invited session at ENAR 2022 Spring Meeting, March 2022.</li>
     <li>Topic-contributed session at 2021 Joint Statistics Meetings, August 2021. </li>
 </ul>
+
 
 <b>Service Activities</b>
 <ul>
