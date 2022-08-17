@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 Instructor at the Renmin University of China
-======
+------
 <ul>
     <li>SKX812 - Advanced Statistical Computing (PhD level), Fall 2022</li>
 </ul>
 
 Teaching Assistant at UC San Diego
-======
+------
 <ul>
     <li>Math 281A, 281B - Mathematical Statistics (graduate level)</li>
     <li>Math 189 - Data Analysis and Inference (upper division)</li>
