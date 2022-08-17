@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yuqian Zhang"
   avatar           : "3.jpg"
-  bio              : "Assistant Professor\\Renmin University of China"
-  location         : "Beijing"
-  employer         : #"Renmin University of China"
+  bio              : "Assistant Professor"
+  location         : #"Beijing"
+  employer         : "Renmin University of China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=afibsbcAAAAJ"
   email            : 
@@ -259,19 +259,19 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
-  - jekyll-paginate
+#plugins:
+#  - jekyll-paginate
 #  - jekyll-sitemap
-  - jekyll-gist
+#  - jekyll-gist
 #  - jekyll-feed
-  - jekyll-redirect-from
+#  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
+#whitelist:
+#  - jekyll-paginate
 #  - jekyll-sitemap
-  - jekyll-gist
+#  - jekyll-gist
 #  - jekyll-feed
-  - jemoji
+#  - jemoji
 
 
 # Archives
