@@ -5,7 +5,7 @@ permalink: /research-awards/
 author_profile: true
 ---
 
-<font size="3">Research Interests</font>
+<font size="1">Research Interests</font>
 ------
 <ul>
     <li>Causal Inference and Missing Data Problems</li>
@@ -15,7 +15,7 @@ author_profile: true
     <li>Dynamic Treatment Regimes and Reinforcement Learning</li>
 </ul>
 
-<font size="3">Publications and Preprints</font>
+<font size="2">Publications and Preprints</font>
 ------
 <ul>
     <li><b>Yuqian Zhang</b>, Jelena Bradic, and Weijie Ji (2021). Dynamic treatment effects: high-dimensional inference under model misspecification. arXiv preprint arxiv:2111.06818.</li>
@@ -33,7 +33,7 @@ author_profile: true
     <li>Friends of the International Center Scholarship, UC San Diego, 2019.</li>
 </ul>
 
-<font size="3">Presentations</font>
+<font size="4">Presentations</font>
 ------
 <ul>
     <li>Invited session at the 5th International Conference on Econometrics and Statistics, June 2022.</li>
@@ -42,7 +42,7 @@ author_profile: true
     <li>Topic-contributed session at 2021 Joint Statistics Meetings, August 2021. </li>
 </ul>
 
-<font size="3">Service Activities</font>
+<font size="5">Service Activities</font>
 ------
 <ul>
     <li>Reviewers: Journal of the American Statistical Association (2), Biostatistics, Journal of Nonparametric Statistics, Statistics, Lifetime Data Analysis.</li>
