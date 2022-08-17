@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuqian Zhang (张宇谦)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuqian Zhang"
 description              : &description "personal description"
 url                      : https://yuqianruc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
