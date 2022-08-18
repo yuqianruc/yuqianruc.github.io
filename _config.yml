@@ -272,12 +272,6 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 #  - jekyll-gist
 #  - jekyll-feed
 #  - jemoji
-defaults:
-  -
-    scope:
-      path: 'assets/**'
-    values:
-      sitemap: false
 
 # Archives
 #  Type
