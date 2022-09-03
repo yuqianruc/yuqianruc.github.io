@@ -12,7 +12,6 @@ Research Interests
     <li>Semi-supervised Inference</li>
     <li>High Dimensional Statistics</li>
     <li>Machine Learning</li>
-    <li>Dynamic Treatment Regimes and Reinforcement Learning</li>
 </ul>
 
 Publications and Preprints
