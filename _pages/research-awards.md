@@ -35,6 +35,7 @@ Awards and Honors
 Presentations
 ------
 <ul>
+    <li>Invited seminar at Department of Applied Mathematics, The Hong Kong Polytechnic University, September 2022.</li>
     <li>Invited session at the 5th International Conference on Econometrics and Statistics, June 2022.</li>
     <li>Invited seminar at Department of Family Medicine and Public Health, UC San Diego, April 2022.</li>
     <li>Invited session at ENAR 2022 Spring Meeting, March 2022.</li>
@@ -44,5 +45,5 @@ Presentations
 Service Activities
 ------
 <ul>
-    <li>Reviewers: Journal of the American Statistical Association (2), Biostatistics, Journal of Nonparametric Statistics, Statistics, Lifetime Data Analysis.</li>
+    <li>Reviewers: Journal of the American Statistical Association (3), Biostatistics, Journal of Nonparametric Statistics, Statistics, Lifetime Data Analysis.</li>
 </ul>
