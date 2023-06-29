@@ -21,7 +21,7 @@ Publications and Preprints
     <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2021). <a href="https://arxiv.org/abs/2110.04924">High-dimensional inference for dynamic treatment effects</a>. arXiv preprint arxiv:2110.04924. Major revision at The Annals of Statistics.</li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2021). <a href="https://arxiv.org/abs/2104.06667">Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap</a>. arXiv preprint arXiv:2104.06667. Accepted by Information and Inference: A Journal of the IMA.</li>
     <li><b>Yuqian Zhang</b>, Jelena Bradic, and Weijie Ji (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818.</li>
-    <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2021). <a href="https://arxiv.org/abs/2305.12789">Semi-Supervised Causal Inference: Generalizable and Double Robust Inference for Average Treatment Effects under Selection Bias with Decaying Overlap</a>. arXiv preprint arXiv:2305.12789.</li>
+    <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">Semi-Supervised Causal Inference: Generalizable and Double Robust Inference for Average Treatment Effects under Selection Bias with Decaying Overlap</a>. arXiv preprint arXiv:2305.12789.</li>
 </ul>
 (# alphabetical order, * co-first author)
 
@@ -43,7 +43,7 @@ Presentations
     <li>The 5th International Conference on Econometrics and Statistics, June 2022.</li>
     <li>Department of Family Medicine and Public Health, UC San Diego, April 2022.</li>
     <li>ENAR 2022 Spring Meeting, March 2022.</li>
-    <li>2021 Joint Statistics Meetings, August 2021. </li>
+    <li>2021 Joint Statistical Meetings, August 2021. </li>
 </ul>
 
 Service Activities
