@@ -36,6 +36,8 @@ Awards and Honors
 Presentations
 ------
 <ul>
+    <li>Joint Conference on Statistics and Data Science in China, July 2023.</li>
+    <li>ICSA 2023 China Conference, June 2023.</li>
     <li>Chinese Causal Inference Conference, May 2023.</li>
     <li>School of Mathematics and Statistics, Wuhan University, April 2023.</li>
     <li>School of Data Science, The Chinese University of Hong Kong, Shenzhen, March 2023.</li>
@@ -43,11 +45,12 @@ Presentations
     <li>The 5th International Conference on Econometrics and Statistics, June 2022.</li>
     <li>Department of Family Medicine and Public Health, UC San Diego, April 2022.</li>
     <li>ENAR 2022 Spring Meeting, March 2022.</li>
-    <li>2021 Joint Statistical Meetings, August 2021. </li>
+    <li>2021 Joint Statistical Meetings, August 2021.</li>
 </ul>
 
 Service Activities
 ------
 <ul>
-    <li>Reviewers: Journal of the American Statistical Association (5), Biostatistics, Journal of Nonparametric Statistics, Statistics, Lifetime Data Analysis.</li>
+    <li>Council Member, Causal Inference Branch of the Chinese Association for Applied Statistics.</li>
+    <li>Reviewers: Journal of the American Statistical Association (5), Biostatistics, Journal of Nonparametric Statistics, Lifetime Data Analysis, Statistics.</li>
 </ul>
