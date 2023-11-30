@@ -8,6 +8,7 @@ author_profile: true
 Instructor at the Renmin University of China
 ------
 <ul>
+    <li>Special Topics in Business and Economic Statistics (PhD level), Fall 2023</li>
     <li>Special Topics in Mathematical Statistics (PhD level), Spring 2023</li>
     <li>Special Topics in Biostatistics (PhD level), Spring 2023</li>
     <li>Advanced Statistical Computing (PhD level), Fall 2022</li>
