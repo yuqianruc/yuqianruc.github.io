@@ -20,9 +20,9 @@ Publications and Preprints
 <ul>
     <li><b>Yuqian Zhang</b>, Jelena Bradic (2022). <a href="https://academic.oup.com/biomet/article/109/2/387/6370142">High-dimensional semi-supervised learning: in search of optimal inference of the mean</a>. Biometrika, 109(2), 387-403. <i>(This paper received the 2021 Best Student Paper Award from the ASA Nonparametric Statistics Section)</i></li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://doi.org/10.1093/imaiai/iaad021">Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap</a>. Information and Inference: A Journal of the IMA, 12(3), 2066-2159.</li>
-    <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2021). <a href="https://arxiv.org/abs/2110.04924">High-dimensional inference for dynamic treatment effects</a>. arXiv preprint arxiv:2110.04924. Minor revision at The Annals of Statistics.</li>
+    <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2021). <a href="https://arxiv.org/abs/2110.04924">High-dimensional inference for dynamic treatment effects</a>. arXiv preprint arxiv:2110.04924. Accepted by The Annals of Statistics.</li>
     <li><b>Yuqian Zhang</b>, Jelena Bradic, and Weijie Ji (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818.</li>
-    <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">Semi-Supervised Causal Inference: Generalizable and Double Robust Inference for Average Treatment Effects under Selection Bias with Decaying Overlap</a>. arXiv preprint arXiv:2305.12789.</li>
+    <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. arXiv preprint arXiv:2305.12789.</li>
     <li><ins>Kai Chen</ins>, <b>Yuqian Zhang</b> (2023). <a href="https://arxiv.org/abs/2311.17685">Enhancing efficiency and robustness in high-dimensional linear regression with additional unlabeled data</a>. arXiv preprint arXiv:2311.17685.</li>
 </ul>
 (# alphabetical order, * co-first author, ____ supervised student)
