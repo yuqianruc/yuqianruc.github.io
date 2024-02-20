@@ -9,10 +9,10 @@ Research Interests
 ------
 <ul>
     <li>Causal Inference</li>
-    <li>Missing Data Problems</li>
     <li>Semi-supervised Inference</li>
     <li>High-dimensional Statistics</li>
     <li>Machine Learning</li>
+    <li>Missing Data Problems</li>
 </ul>
 
 Publications and Preprints
