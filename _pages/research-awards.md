@@ -24,6 +24,7 @@ Publications and Preprints
     <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818.</li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. arXiv preprint arXiv:2305.12789.</li>
     <li><ins>Kai Chen</ins>, <b>Yuqian Zhang</b> (2023). <a href="https://arxiv.org/abs/2311.17685">Enhancing efficiency and robustness in high-dimensional linear regression with additional unlabeled data</a>. arXiv preprint arXiv:2311.17685.</li>
+    <li><b>Yuqian Zhang</b>, Weijie Ji, Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv preprint arXiv:2402.11228.</li>
 </ul>
 (# alphabetical order, * co-first author, ____ supervised student)
 
