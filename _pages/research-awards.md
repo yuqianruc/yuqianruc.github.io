@@ -46,6 +46,9 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>School of Management, Fudan University, April 2024.</li>
+    <li>School of Statistics and Management, Shanghai University of Finance and Economics, April 2024.</li>
+    <li>Chinese Causal Inference Conference, March 2024.</li>
     <li>School of Statistics, Renmin University of China, November 2023.</li>
     <li>IMS New Researcher Conference, August 2023.</li>
     <li>Joint Conference on Statistics and Data Science in China, July 2023.</li>
@@ -65,5 +68,6 @@ Service Activities
 ------
 <ul>
     <li>Council Member, Causal Inference Branch of the Chinese Association for Applied Statistics.</li>
-    <li>Reviewers: Journal of the American Statistical Association (5), Biostatistics, Journal of Nonparametric Statistics (2), Lifetime Data Analysis, Statistics.</li>
+    <li>Council Member, Chinese Statistical Association of Young Scholars.</li>
+    <li>Reviewers: Journal of the American Statistical Association (6), Biometrics, Biostatistics, Journal of Nonparametric Statistics (2), Lifetime Data Analysis, Science China Mathematics, Statistics, etc.</li>
 </ul>
