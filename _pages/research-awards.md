@@ -17,7 +17,7 @@ Research Interests
 Publications
 ------
 <ul>
-    <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2024). <a href="https://arxiv.org/abs/2110.04924">High-dimensional inference for dynamic treatment effects</a>. The Annals of Statistics, 52(2), 415-440.</li>
+    <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2024). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/High-dimensional-inference-for-dynamic-treatment-effects/10.1214/24-AOS2352.short">High-dimensional inference for dynamic treatment effects</a>. The Annals of Statistics, 52(2), 415-440.</li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://doi.org/10.1093/imaiai/iaad021">Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap</a>. Information and Inference: A Journal of the IMA, 12(3), 2066-2159.</li>
     <li><b>Yuqian Zhang</b>, Jelena Bradic (2022). <a href="https://academic.oup.com/biomet/article/109/2/387/6370142">High-dimensional semi-supervised learning: in search of optimal inference of the mean</a>. Biometrika, 109(2), 387-403. <i>(This paper received the 2021 Best Student Paper Award from the ASA Nonparametric Statistics Section)</i></li>
 </ul>
