@@ -12,6 +12,7 @@ Research Interests
     <li>Semi-supervised Learning</li>
     <li>High-dimensional Statistics</li>
     <li>Machine Learning</li>
+    <li>Precision Medicine</li>
 </ul>
 
 Publications
@@ -19,14 +20,15 @@ Publications
 <ul>
     <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2024). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/High-dimensional-inference-for-dynamic-treatment-effects/10.1214/24-AOS2352.short">High-dimensional inference for dynamic treatment effects</a>. The Annals of Statistics, 52(2), 415-440.</li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://doi.org/10.1093/imaiai/iaad021">Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap</a>. Information and Inference: A Journal of the IMA, 12(3), 2066-2159.</li>
-    <li><b>Yuqian Zhang</b>, Jelena Bradic (2022). <a href="https://academic.oup.com/biomet/article/109/2/387/6370142">High-dimensional semi-supervised learning: in search of optimal inference of the mean</a>. Biometrika, 109(2), 387-403. <i>(This paper received the 2021 Best Student Paper Award from the ASA Nonparametric Statistics Section)</i></li>
+    <li><b>Yuqian Zhang</b> and Jelena Bradic (2022). <a href="https://academic.oup.com/biomet/article/109/2/387/6370142">High-dimensional semi-supervised learning: in search of optimal inference of the mean</a>. Biometrika, 109(2), 387-403. <i>(This paper received the 2021 Best Student Paper Award from the ASA Nonparametric Statistics Section)</i></li>
 </ul>
 
 Preprints
 ------
 <ul>
-    <li><b>Yuqian Zhang</b>, Weijie Ji, Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv preprint arXiv:2402.11228.</li>
-    <li><ins>Kai Chen</ins>, <b>Yuqian Zhang</b> (2023). <a href="https://arxiv.org/abs/2311.17685">Enhancing efficiency and robustness in high-dimensional linear regression with additional unlabeled data</a>. arXiv preprint arXiv:2311.17685.</li>
+    <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv preprint arXiv:2407.08560.</li>
+    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv preprint arXiv:2402.11228.</li>
+    <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b> (2023). <a href="https://arxiv.org/abs/2311.17685">Enhancing efficiency and robustness in high-dimensional linear regression with additional unlabeled data</a>. arXiv preprint arXiv:2311.17685.</li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. arXiv preprint arXiv:2305.12789.</li>
     <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818.</li>
 </ul>
@@ -50,6 +52,9 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>Joint Conference on Statistics and Data Science in China, July 2024.</li>
+    <li>IMS-China International Conference on Statistics and Probability, July 2024.</li>
+    <li>ICSA 2024 China Conference, June 2024.</li>
     <li>School of Statistics and Data Science, Nankai University, May 2024.</li>
     <li>School of Management, Fudan University, April 2024.</li>
     <li>School of Statistics and Management, Shanghai University of Finance and Economics, April 2024.</li>
