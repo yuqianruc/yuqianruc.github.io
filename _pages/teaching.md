@@ -8,12 +8,12 @@ author_profile: true
 Instructor at the Renmin University of China
 ------
 <ul>
-    <li>Causal Inference (PhD level) Fall 2024, previously titled Special Topics in Business and Economic Statistics (Fall 2023) and Special Topics in Biostatistics (Spring 2023)</li>
-    <p>Causal Inference, including randomized controlled trials, IPW, AIPW, balancing estimators, heterogeneous treatment effects, regression discontinuity designs, instrumental variables, policy learning, panel data, dynamic treatment regimes, reinforcement learning, etc.</p>
-    <li>Special Topics in Mathematical Statistics (PhD level), Spring 2023 and 2024</li>
-    <p>High-dimensional statistics, including concentration inequality, Lasso, debiased Lasso, uniform laws of large numbers, Rademacher complexity, metric entropy, statistical theory for random forests and/or neural networks, etc.</p>
-    <li>Advanced Statistical Computing (PhD level), Fall 2022</li>
-    <p>Convex optimization, including gradient methods, subgradients, coordinate descent, Lagrange multiplier, EM and MM algorithms, proximal algorithms, ADMM, etc.</p>
+    <li><i>Causal Inference</i> (Fall 2024), previously titled <i>Special Topics in Business and Economic Statistics</i> (Fall 2023) and <i>Special Topics in Biostatistics</i> (Spring 2023)</li>
+    <p>Causal Inference (PhD level), including randomized controlled trials, IPW, AIPW, balancing estimators, heterogeneous treatment effects, regression discontinuity designs, instrumental variables, policy learning, panel data, dynamic treatment regimes, reinforcement learning, etc.</p>
+    <li><i>Special Topics in Mathematical Statistics</i> (Spring 2023 and 2024)</li>
+    <p>High-dimensional statistics (PhD level), including concentration inequality, Lasso, debiased Lasso, uniform laws of large numbers, Rademacher complexity, metric entropy, statistical theory for random forests and/or neural networks, etc.</p>
+    <li><i>Advanced Statistical Computing</i> (Fall 2022)</li>
+    <p>Convex optimization (PhD level), including gradient methods, subgradients, coordinate descent, Lagrange multiplier, EM and MM algorithms, proximal algorithms, ADMM, etc.</p>
 </ul>
 
 Teaching Assistant at UC San Diego
