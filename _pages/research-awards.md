@@ -52,6 +52,7 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>The 2nd International Conference on Machine Learning and Statistics, August 2024</li>
     <li>Joint Conference on Statistics and Data Science in China, July 2024.</li>
     <li>IMS-China International Conference on Statistics and Probability, July 2024.</li>
     <li>ICSA 2024 China Conference, June 2024.</li>
@@ -79,5 +80,4 @@ Service Activities
 <ul>
     <li>Council Member, Causal Inference Branch of the Chinese Association for Applied Statistics.</li>
     <li>Council Member, Chinese Statistical Association of Young Scholars.</li>
-    <li>Reviewers: Journal of the American Statistical Association (6), Biometrics, Biostatistics, Journal of Nonparametric Statistics (2), Lifetime Data Analysis, Science China Mathematics, Statistics, etc.</li>
 </ul>
