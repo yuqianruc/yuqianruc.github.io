@@ -10,8 +10,8 @@ Instructor at the Renmin University of China
 <ul>
     <li><i>Causal Inference</i> (Fall 2024), previously titled <i>Special Topics in Business and Economic Statistics</i> (Fall 2023) and <i>Special Topics in Biostatistics</i> (Spring 2023)</li>
     <p>Causal Inference (PhD level), including randomized controlled trials, IPW, AIPW, balancing estimators, heterogeneous treatment effects, regression discontinuity designs, instrumental variables, policy learning, panel data, dynamic treatment regimes, reinforcement learning, etc.</p>
-    <li><i>Special Topics in Mathematical Statistics</i> (Spring 2023 and 2024)</li>
-    <p>High-dimensional statistics (PhD level), including concentration inequality, Lasso, debiased Lasso, uniform laws of large numbers, Rademacher complexity, metric entropy, statistical theory for random forests and/or neural networks, etc.</p>
+    <li><i>Special Topics in Mathematical Statistics</i> (Spring 2023-2025)</li>
+    <p>High-dimensional statistics (PhD level), including concentration inequality, Lasso, debiased Lasso, uniform laws of large numbers, Rademacher complexity, metric entropy, statistical theory for adaptive non-parametric methods, e.g., random forests and/or neural networks, etc.</p>
     <li><i>Advanced Statistical Computing</i> (Fall 2022)</li>
     <p>Convex optimization (PhD level), including gradient methods, subgradients, coordinate descent, Lagrange multiplier, EM and MM algorithms, proximal algorithms, ADMM, etc.</p>
 </ul>
