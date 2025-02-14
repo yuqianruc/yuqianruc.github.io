@@ -53,6 +53,11 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>Causal Inference: Bridging Theory and Practice, January 2025</li>
+    <li>The 18th International Joint Conference CFE-CMStatistics, December 2024</li>
+    <li>First Macau International Conference on Business Intelligence and Analytics, December 2024</li>
+    <li>School of Statistics and Data Science, Nankai University, December 2024</li>
+    <li>School of Statistics and Management, Shanghai University of Finance and Economics, November 2024</li>
     <li>The 2nd International Conference on Machine Learning and Statistics, August 2024</li>
     <li>Joint Conference on Statistics and Data Science in China, July 2024.</li>
     <li>IMS-China International Conference on Statistics and Probability, July 2024.</li>
