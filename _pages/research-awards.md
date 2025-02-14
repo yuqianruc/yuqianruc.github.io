@@ -53,6 +53,7 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>School of Mathematics and Statistics, Wuhan University, January 2025</li>
     <li>Causal Inference: Bridging Theory and Practice, January 2025</li>
     <li>The 18th International Joint Conference CFE-CMStatistics, December 2024</li>
     <li>First Macau International Conference on Business Intelligence and Analytics, December 2024</li>
