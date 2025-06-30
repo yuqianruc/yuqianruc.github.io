@@ -31,16 +31,18 @@ Preprints
     <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv preprint arXiv:2402.11228.</li>
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b> (2023). <a href="https://arxiv.org/abs/2311.17685">Enhancing efficiency and robustness in high-dimensional linear regression with additional unlabeled data</a>. arXiv preprint arXiv:2311.17685. <i>(Kai Chen received the Second Prize for Outstanding Papers in the the 8th National Statistics Doctoral Academic Forum)</i></li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. arXiv preprint arXiv:2305.12789.</li>
-    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818.</li>
+    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818. <i>(This paper received the ICSA 2025 China Conference Junior Researcher Award)</i></li>
 </ul>
 (# alphabetical order, * co-first author, ____ supervised student)
 
 Awards and Honors
 ------
 <ul>
+    <li>Junior Researcher Award, International Chinese Statistical Association, 2025.</li>
     <li>Best Student Paper Award (Nonparametric Statistics Section), American Statistical Association, 2021.</li>
     <li>Teaching Assistant Award, Department of Mathematics, UC San Diego, 2019-2020.</li>
     <li>Friends of the International Center Scholarship, UC San Diego, 2019.</li>
+    <li>Outstanding Graduate, Wuhan University, 2016.</li>
 </ul>
 
 Research Grants
@@ -53,6 +55,17 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>ICSA 2025 China Conference, June 2025</li>
+    <li>School of Mathematics and Statistics, Wuhan University, June 2025</li>
+    <li>2025 Annual Meeting of the CAAS Committee on Multivariate Analysis Application, June 2025</li>
+    <li>School of Management, University of Science and Technology of China, June 2025</li>
+    <li>School of Statistics, Capital University of Economics and Business, May 2025</li>
+    <li>School of Statistics, Renmin University of China, April 2025</li>
+    <li>School of Statistics, East China Normal University, April 2025</li>
+    <li>School of Mathematical Sciences, Tongji University, April 2025</li>
+    <li>School of Management, Fudan University, April 2025</li>
+    <li>School of Statistics and Mathematics, Central University of Finance and Economics, March 2025</li>
+    <li>Guanghua School of Management, Peking University, February 2025</li>
     <li>School of Mathematics and Statistics, Wuhan University, January 2025</li>
     <li>Causal Inference: Bridging Theory and Practice, January 2025</li>
     <li>The 18th International Joint Conference CFE-CMStatistics, December 2024</li>
@@ -80,11 +93,4 @@ Presentations
     <li>Department of Family Medicine and Public Health, UC San Diego, April 2022.</li>
     <li>ENAR 2022 Spring Meeting, March 2022.</li>
     <li>2021 Joint Statistical Meetings, August 2021.</li>
-</ul>
-
-Service Activities
-------
-<ul>
-    <li>Council Member, Causal Inference Branch of the Chinese Association for Applied Statistics.</li>
-    <li>Council Member, Chinese Statistical Association of Young Scholars.</li>
 </ul>
