@@ -39,11 +39,11 @@ Preprints
 Awards and Honors
 ------
 <ul>
-    <li>Junior Researcher Award, International Chinese Statistical Association, 2025.</li>
-    <li>Best Student Paper Award (Nonparametric Statistics Section), American Statistical Association, 2021.</li>
-    <li>Teaching Assistant Award, Department of Mathematics, UC San Diego, 2019-2020.</li>
-    <li>Friends of the International Center Scholarship, UC San Diego, 2019.</li>
-    <li>Outstanding Graduate, Wuhan University, 2016.</li>
+    <li>Junior Researcher Award, International Chinese Statistical Association, 2025</li>
+    <li>Best Student Paper Award (Nonparametric Statistics Section), American Statistical Association, 2021</li>
+    <li>Teaching Assistant Award, Department of Mathematics, UC San Diego, 2019-2020</li>
+    <li>Friends of the International Center Scholarship, UC San Diego, 2019</li>
+    <li>Outstanding Graduate, Wuhan University, 2016</li>
 </ul>
 
 Research Grants
@@ -75,24 +75,24 @@ Presentations
     <li>School of Statistics and Data Science, Nankai University, December 2024</li>
     <li>School of Statistics and Management, Shanghai University of Finance and Economics, November 2024</li>
     <li>The 2nd International Conference on Machine Learning and Statistics, August 2024</li>
-    <li>Joint Conference on Statistics and Data Science in China, July 2024.</li>
-    <li>IMS-China International Conference on Statistics and Probability, July 2024.</li>
-    <li>ICSA 2024 China Conference, June 2024.</li>
-    <li>School of Statistics and Data Science, Nankai University, May 2024.</li>
-    <li>School of Management, Fudan University, April 2024.</li>
-    <li>School of Statistics and Management, Shanghai University of Finance and Economics, April 2024.</li>
-    <li>Chinese Causal Inference Conference, March 2024.</li>
-    <li>School of Statistics, Renmin University of China, November 2023.</li>
-    <li>IMS New Researcher Conference, August 2023.</li>
-    <li>Joint Conference on Statistics and Data Science in China, July 2023.</li>
-    <li>ICSA 2023 China Conference, June 2023.</li>
-    <li>Chinese Causal Inference Conference, May 2023.</li>
-    <li>School of Mathematics and Statistics, Wuhan University, April 2023.</li>
-    <li>School of Data Science, The Chinese University of Hong Kong, Shenzhen, March 2023.</li>
-    <li>Department of Applied Mathematics, The Hong Kong Polytechnic University, September 2022.</li>
-    <li>Interdisciplinary Seminar on "Data Science and Life and Health", October 2022.</li>
-    <li>The 5th International Conference on Econometrics and Statistics, June 2022.</li>
-    <li>Department of Family Medicine and Public Health, UC San Diego, April 2022.</li>
-    <li>ENAR 2022 Spring Meeting, March 2022.</li>
-    <li>2021 Joint Statistical Meetings, August 2021.</li>
+    <li>Joint Conference on Statistics and Data Science in China, July 2024</li>
+    <li>IMS-China International Conference on Statistics and Probability, July 2024</li>
+    <li>ICSA 2024 China Conference, June 2024</li>
+    <li>School of Statistics and Data Science, Nankai University, May 2024</li>
+    <li>School of Management, Fudan University, April 2024</li>
+    <li>School of Statistics and Management, Shanghai University of Finance and Economics, April 2024</li>
+    <li>Chinese Causal Inference Conference, March 2024</li>
+    <li>School of Statistics, Renmin University of China, November 2023</li>
+    <li>IMS New Researcher Conference, August 2023</li>
+    <li>Joint Conference on Statistics and Data Science in China, July 2023</li>
+    <li>ICSA 2023 China Conference, June 2023</li>
+    <li>Chinese Causal Inference Conference, May 2023</li>
+    <li>School of Mathematics and Statistics, Wuhan University, April 2023</li>
+    <li>School of Data Science, The Chinese University of Hong Kong, Shenzhen, March 2023</li>
+    <li>Department of Applied Mathematics, The Hong Kong Polytechnic University, September 2022</li>
+    <li>Interdisciplinary Seminar on "Data Science and Life and Health", October 2022</li>
+    <li>The 5th International Conference on Econometrics and Statistics, June 2022</li>
+    <li>Department of Family Medicine and Public Health, UC San Diego, April 2022</li>
+    <li>ENAR 2022 Spring Meeting, March 2022</li>
+    <li>2021 Joint Statistical Meetings, August 2021</li>
 </ul>
