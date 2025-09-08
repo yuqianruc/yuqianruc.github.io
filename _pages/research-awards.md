@@ -27,6 +27,7 @@ Publications
 Preprints
 ------
 <ul>
+    <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for treatment heterogeneity</a>. arXiv preprint arXiv:2509.05048.</li>
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv preprint arXiv:2507.17360.</li>
     <li><ins>Facheng Yu</ins> and <b>Yuqian Zhang</b> (2024). <a href="https://arxiv.org/abs/2411.15691">Data integration using covariate summaries from external sources</a>. arXiv preprint arXiv:2411.15691.</li>
     <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv preprint arXiv:2407.08560.</li>
