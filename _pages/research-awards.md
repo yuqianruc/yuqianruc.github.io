@@ -29,7 +29,7 @@ Preprints
 <ul>
     <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for treatment heterogeneity</a>. arXiv preprint arXiv:2509.05048. <i>(Yilizhati received the Third Prize for Outstanding Papers in the the 9th National Statistics Doctoral Academic Forum)</i></li>
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv preprint arXiv:2507.17360. Reject and resubmit at JRSSB.</li>
-    <li><ins>Facheng Yu</ins> and <b>Yuqian Zhang</b> (2024). <a href="https://arxiv.org/abs/2411.15691">Data integration using covariate summaries from external sources</a>. arXiv preprint arXiv:2411.15691.</li>
+    <li><ins>Facheng Yu</ins>, <ins>Zhen Qi</ins>, and <b>Yuqian Zhang</b> (2024). <a href="https://arxiv.org/abs/2411.15691">Data integration using covariate summaries from external sources</a>. arXiv preprint arXiv:2411.15691.</li>
     <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv preprint arXiv:2407.08560.</li>
     <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv preprint arXiv:2402.11228.</li>
     <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. arXiv preprint arXiv:2305.12789.</li>
