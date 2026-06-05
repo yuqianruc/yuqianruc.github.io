@@ -27,7 +27,7 @@ Publications (# alphabetical order, * co-first author, ____ supervised student)
 Preprints
 ------
 <ul>
-    <li><ins>Zhen Qi</ins> and <b>Yuqian Zhang</b> (2026). <a href="https://arxiv.org/abs/2601.22592">Quadruply robust methods for causal mediation analysis</a>. arXiv preprint arXiv:2601.22592.</li>
+    <li><ins>Zhen Qi</ins> and <b>Yuqian Zhang</b> (2026). <a href="https://arxiv.org/abs/2601.22592">Quadruply robust methods for causal mediation analysis</a>. arXiv preprint arXiv:2601.22592. Major revision at Journal of the American Statistical Association.</li>
     <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for treatment heterogeneity</a>. arXiv preprint arXiv:2509.05048. Major revision at Biometrics. <i>(Yilizhati received the Third Prize for Outstanding Papers in the the 9th National Statistics Doctoral Academic Forum)</i></li>
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv preprint arXiv:2507.17360. Reject and resubmit at Journal of the Royal Statistical Society: Series B.</li>
     <li><ins>Facheng Yu</ins>, <ins>Zhen Qi</ins>, and <b>Yuqian Zhang</b> (2024). <a href="https://arxiv.org/abs/2411.15691">Semi-supervised inference using unlabeled summary statistics</a>. arXiv preprint arXiv:2411.15691.</li>
