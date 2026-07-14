@@ -10,31 +10,31 @@ Research Interests
 <ul>
     <li>Causal Inference</li>
     <li>Semi-supervised Learning</li>
+    <li>Dynamic Treatment Regimes</li>
+    <li>Machine Learning and Reinforcement Learning</li>
     <li>High-dimensional Statistics</li>
-    <li>Machine Learning</li>
-    <li>Precision Medicine</li>
 </ul>
 
-Publications (# alphabetical order, * co-first author, ____ supervised student)
+Publications (* corresponding, # alphabetical order, † equal contribution, ____ students)
 ------
 <ul>
-    <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://academic.oup.com/biometrics/article/81/3/ujaf113/8242109">Semi-supervised linear regression: enhancing efficiency and robustness in high dimensions</a>. Biometrics, 81(3), ujaf113. <i>(Kai received the Second Prize for Outstanding Papers in the the 8th National Statistics Doctoral Academic Forum)</i></li>
-    <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2024). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/High-dimensional-inference-for-dynamic-treatment-effects/10.1214/24-AOS2352.short">High-dimensional inference for dynamic treatment effects</a>. The Annals of Statistics, 52(2), 415-440.</li>
-    <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://doi.org/10.1093/imaiai/iaad021">Double robust semi-supervised inference for the mean: Selection bias under MAR labeling with decaying overlap</a>. Information and Inference: A Journal of the IMA, 12(3), 2066-2159.</li>
-    <li><b>Yuqian Zhang</b> and Jelena Bradic (2022). <a href="https://academic.oup.com/biomet/article/109/2/387/6370142">High-dimensional semi-supervised learning: in search of optimal inference of the mean</a>. Biometrika, 109(2), 387-403. <i>(This paper received the 2021 Best Student Paper Award from the ASA Nonparametric Statistics Section)</i></li>
+    <li><b>Yuqian Zhang</b>†, Abhishek Chakrabortty†, and Jelena Bradic† (2026). <a href="https://arxiv.org/abs/2305.12789">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. <i>IEEE Transactions on Information Theory</i>, accepted. </li>
+    <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://academic.oup.com/biometrics/article/81/3/ujaf113/8242109">Semi-supervised linear regression: enhancing efficiency and robustness in high dimensions</a>. <i>Biometrics</i>, 81(3), ujaf113. <i>(Kai received the Second Prize for Outstanding Papers at the 8th National Statistics Doctoral Academic Forum.)</i></li>
+    <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2024). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/High-dimensional-inference-for-dynamic-treatment-effects/10.1214/24-AOS2352.short">High-dimensional inference for dynamic treatment effects</a>. <i>The Annals of Statistics</i>, 52(2), 415–440.</li>
+    <li><b>Yuqian Zhang</b>†, Abhishek Chakrabortty†, and Jelena Bradic† (2023). <a href="https://doi.org/10.1093/imaiai/iaad021">Double robust semi-supervised inference for the mean: Selection bias under MAR labeling with decaying overlap</a>. <i>Information and Inference: A Journal of the IMA</i>, 12(3), 2066–2159.</li>
+    <li><b>Yuqian Zhang</b> and Jelena Bradic (2022). <a href="https://academic.oup.com/biomet/article/109/2/387/6370142">High-dimensional semi-supervised learning: in search of optimal inference of the mean</a>. <i>Biometrika</i>, 109(2), 387–403. <i>(This paper received the 2021 Best Student Paper Award from the ASA Nonparametric Statistics Section.)</i></li>
 </ul>
 
 Preprints
 ------
 <ul>
-    <li><ins>Zhen Qi</ins> and <b>Yuqian Zhang</b> (2026). <a href="https://arxiv.org/abs/2601.22592">Quadruply robust methods for causal mediation analysis</a>. arXiv preprint arXiv:2601.22592. Major revision at Journal of the American Statistical Association.</li>
-    <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for treatment heterogeneity</a>. arXiv preprint arXiv:2509.05048. Major revision at Biometrics. <i>(Yilizhati received the Third Prize for Outstanding Papers in the the 9th National Statistics Doctoral Academic Forum)</i></li>
-    <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b> (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv preprint arXiv:2507.17360. Reject and resubmit at Journal of the Royal Statistical Society: Series B.</li>
-    <li><ins>Facheng Yu</ins>, <ins>Zhen Qi</ins>, and <b>Yuqian Zhang</b> (2024). <a href="https://arxiv.org/abs/2411.15691">Semi-supervised inference using unlabeled summary statistics</a>. arXiv preprint arXiv:2411.15691.</li>
-    <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv preprint arXiv:2407.08560.</li>
-    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv preprint arXiv:2402.11228.</li>
-    <li><b>Yuqian Zhang</b>*, Abhishek Chakrabortty*, and Jelena Bradic* (2023). <a href="https://arxiv.org/abs/2305.12789">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. arXiv preprint arXiv:2305.12789. Major revision at IEEE Transactions on Information Theory.</li>
-    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arXiv preprint arxiv:2111.06818. Major revision at Journal of the Royal Statistical Society: Series B. <i>(This paper received the ICSA 2025 China Conference Junior Researcher Award)</i></li>
+    <li><ins>Zhen Qi</ins> and <b>Yuqian Zhang</b>* (2026). <a href="https://arxiv.org/abs/2601.22592">Quadruply robust methods for causal mediation analysis</a>. arXiv:2601.22592. Major revision at <i>Journal of the American Statistical Association</i>.</li>
+    <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for treatment heterogeneity</a>. arXiv:2509.05048. Major revision at <i>Biometrics</i>. <i>(Yilizhati received the Third Prize for Outstanding Papers at the 9th National Statistics Doctoral Academic Forum.)</i></li>
+    <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv:2507.17360. Reject and resubmit at <i>Journal of the Royal Statistical Society: Series B</i>.</li>
+    <li><ins>Facheng Yu</ins>, <ins>Zhen Qi</ins>, and <b>Yuqian Zhang</b>* (2024). <a href="https://arxiv.org/abs/2411.15691">Semi-supervised inference using unlabeled summary statistics</a>. arXiv:2411.15691.</li>
+    <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv:2407.08560.</li>
+    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv:2402.11228.</li>
+    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arxiv:2111.06818. Major revision at <i>Journal of the Royal Statistical Society: Series B</i>. <i>(This paper received the ICSA 2025 China Conference Junior Researcher Award.)</i></li>
 </ul>
 
 Awards and Honors
@@ -50,13 +50,20 @@ Awards and Honors
 Research Grants
 ------
 <ul>
-    <li>NSFC the Young Scientists Fund. "Statistical Inference based on High-dimensional Semi-supervised Data". PI.</li>
-    <li>NSFC the General Fund. "Nonparametric Modeling and Inference for Continuous Treatment Effect". Co-investigator (with Zheng Zhang).</li>
+    <li>The RUC Endurance Research Fund for Long-Term Basic Studies. "Statistical Foundations of Artificial Intelligence". Grant No. 26XNKJ31. 2026.07–2031.06. Principal Investigator.</li>
+    <li>The NSFC Young Scientists Fund. "Statistical Inference Based on High-dimensional Semi-supervised Data". Grant No. 12301390. 2024.01–2026.12. Principal Investigator.</li>
+    <li>The RUC Start-up Fund. "Semi-supervised Inference under Selection Bias". Grant No. 23XNKJ18. 2023.01–2025.12. Principal Investigator.</li>
+    <li>The NSFC General Program. "Nonparametric Modeling and Inference for Continuous Treatment Effect". Grant No. 12371284. 2024.01–2027.12. Co-investigator (with Zheng Zhang).</li>
 </ul>
 
 Presentations
 ------
 <ul>
+    <li>The 4th Joint Conference on Statistics and Data Science & IMS-China, July 2026</li>
+    <li>Young Researchers Workshop on Statistics and Data Science, July 2026</li>
+    <li>Department of Mathematics, Hong Kong Baptist University, June 2026</li>
+    <li>IMS Asia Pacific Rim Meeting 2026, June 2026</li>
+    <li>2026 Annual Meeting of the CAAS Committee on Multivariate Analysis Application, June 2026</li>
     <li>2026 International Conference on Frontiers of Data Science, May 2026</li>
     <li>School of Economics and Management, Tsinghua University, March 2026</li>
     <li>Sanya Workshop on Causality and Machine Learning, January 2026</li>
@@ -84,7 +91,7 @@ Presentations
     <li>School of Statistics and Data Science, Nankai University, December 2024</li>
     <li>School of Statistics and Management, Shanghai University of Finance and Economics, November 2024</li>
     <li>The 2nd International Conference on Machine Learning and Statistics, August 2024</li>
-    <li>Joint Conference on Statistics and Data Science in China, July 2024</li>
+    <li>The 1st Joint Conference on Statistics and Data Science, July 2024</li>
     <li>IMS-China International Conference on Statistics and Probability, July 2024</li>
     <li>ICSA 2024 China Conference, June 2024</li>
     <li>School of Statistics and Data Science, Nankai University, May 2024</li>
