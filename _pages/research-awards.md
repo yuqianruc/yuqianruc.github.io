@@ -23,6 +23,7 @@ Publications (* corresponding, # alphabetical order, † equal contribution, ___
     <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2024). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/High-dimensional-inference-for-dynamic-treatment-effects/10.1214/24-AOS2352.short">High-dimensional inference for dynamic treatment effects</a>. <i>The Annals of Statistics</i>, 52(2), 415–440.</li>
     <li><b>Yuqian Zhang</b>†, Abhishek Chakrabortty†, and Jelena Bradic† (2023). <a href="https://doi.org/10.1093/imaiai/iaad021">Double robust semi-supervised inference for the mean: Selection bias under MAR labeling with decaying overlap</a>. <i>Information and Inference: A Journal of the IMA</i>, 12(3), 2066–2159.</li>
     <li><b>Yuqian Zhang</b> and Jelena Bradic (2022). <a href="https://academic.oup.com/biomet/article/109/2/387/6370142">High-dimensional semi-supervised learning: in search of optimal inference of the mean</a>. <i>Biometrika</i>, 109(2), 387–403. <i>(This paper received the 2021 Best Student Paper Award from the ASA Nonparametric Statistics Section.)</i></li>
+    <li>Zheng Zhang, Kun Zhang, Xing Yan, Songshan Yang, and <b>Yuqian Zhang</b> (2026). <a href="https://link.springer.com/book/10.1007/978-981-95-3125-7"><i>Big Data in Economics and Management</i></a>. Springer Nature Singapore.</li>
 </ul>
 
 Preprints
