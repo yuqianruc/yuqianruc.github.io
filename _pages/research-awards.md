@@ -18,7 +18,8 @@ Research Interests
 Publications (* corresponding, # alphabetical order, † equal contribution, ____ students)
 ------
 <ul>
-    <li><b>Yuqian Zhang</b>†, Abhishek Chakrabortty†, and Jelena Bradic† (2026). <a href="https://ieeexplore.ieee.org/document/11611237">The Decaying Missing-at-Random Framework: Doubly Robust Causal Inference with Partially Labeled Data</a>. <i>IEEE Transactions on Information Theory</i>, accepted. https://doi.org/10.1109/TIT.2026.3713863.</li>
+    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2026). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. <i>Journal of the Royal Statistical Society: Series B</i>, accepted. <i>(This paper received the ICSA 2025 China Conference Junior Researcher Award.)</i></li>
+    <li><b>Yuqian Zhang</b>†, Abhishek Chakrabortty†, and Jelena Bradic† (2026). <a href="https://ieeexplore.ieee.org/document/11611237">The decaying missing-at-random framework: model doubly robust causal inference with partially labeled data</a>. <i>IEEE Transactions on Information Theory</i>, accepted. https://doi.org/10.1109/TIT.2026.3713863.</li>
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://academic.oup.com/biometrics/article/81/3/ujaf113/8242109">Semi-supervised linear regression: enhancing efficiency and robustness in high dimensions</a>. <i>Biometrics</i>, 81(3), ujaf113. <i>(Kai received the Second Prize for Outstanding Papers at the 8th National Statistics Doctoral Academic Forum.)</i></li>
     <li>Jelena Bradic#, Weijie Ji#, and <b>Yuqian Zhang</b># (2024). <a href="https://projecteuclid.org/journals/annals-of-statistics/volume-52/issue-2/High-dimensional-inference-for-dynamic-treatment-effects/10.1214/24-AOS2352.short">High-dimensional inference for dynamic treatment effects</a>. <i>The Annals of Statistics</i>, 52(2), 415–440.</li>
     <li><b>Yuqian Zhang</b>†, Abhishek Chakrabortty†, and Jelena Bradic† (2023). <a href="https://doi.org/10.1093/imaiai/iaad021">Double robust semi-supervised inference for the mean: Selection bias under MAR labeling with decaying overlap</a>. <i>Information and Inference: A Journal of the IMA</i>, 12(3), 2066–2159.</li>
@@ -34,8 +35,7 @@ Preprints
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv:2507.17360. Reject and resubmit at <i>Journal of the Royal Statistical Society: Series B</i>.</li>
     <li><ins>Facheng Yu</ins>, <ins>Zhen Qi</ins>, and <b>Yuqian Zhang</b>* (2024). <a href="https://arxiv.org/abs/2411.15691">Semi-supervised inference using unlabeled summary statistics</a>. arXiv:2411.15691.</li>
     <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv:2407.08560.</li>
-    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive Split Balancing for Optimal Random Forest</a>. arXiv:2402.11228.</li>
-    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2021). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. arxiv:2111.06818. Major revision at <i>Journal of the Royal Statistical Society: Series B</i>. <i>(This paper received the ICSA 2025 China Conference Junior Researcher Award.)</i></li>
+    <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive split balancing for optimal random forest</a>. arXiv:2402.11228.</li>
 </ul>
 
 Awards and Honors
@@ -60,6 +60,9 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>Frontier Forum on Bayesian Statistics and Artificial Intelligence, August 2026</li>
+    <li>The 4th Chinese Causal Inference Conference, July 2026</li>
+    <li>The 8th Pacific Causal Inference Conference, July 2026</li>
     <li>The 4th Joint Conference on Statistics and Data Science & IMS-China, July 2026</li>
     <li>Young Researchers Workshop on Statistics and Data Science, July 2026</li>
     <li>Department of Mathematics, Hong Kong Baptist University, June 2026</li>
