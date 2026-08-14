@@ -32,7 +32,7 @@ Preprints
 <ul>
     <li><ins>Zhen Qi</ins> and <b>Yuqian Zhang</b>* (2026). <a href="https://arxiv.org/abs/2601.22592">Quadruply robust methods for causal mediation analysis</a>. arXiv:2601.22592. Major revision at <i>Journal of the American Statistical Association</i>.</li>
     <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for treatment heterogeneity</a>. arXiv:2509.05048. Major revision at <i>Biometrics</i>. <i>(Yilizhati received the Third Prize for Outstanding Papers at the 9th National Statistics Doctoral Academic Forum.)</i></li>
-    <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv:2507.17360. Reject and resubmit at <i>Journal of the Royal Statistical Society: Series B</i>.</li>
+    <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv:2507.17360. Major revision at <i>Journal of the Royal Statistical Society: Series B</i>.</li>
     <li><ins>Facheng Yu</ins>, <ins>Zhen Qi</ins>, and <b>Yuqian Zhang</b>* (2024). <a href="https://arxiv.org/abs/2411.15691">Semi-supervised inference using unlabeled summary statistics</a>. arXiv:2411.15691.</li>
     <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv:2407.08560.</li>
     <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2402.11228">Adaptive split balancing for optimal random forest</a>. arXiv:2402.11228.</li>
@@ -60,6 +60,8 @@ Research Grants
 Presentations
 ------
 <ul>
+    <li>Annual Conference of the FinTech and Big Data Technology Branch, National Society for Industrial
+Statistics Education and Research, August 2026</li>
     <li>Frontier Forum on Bayesian Statistics and Artificial Intelligence, August 2026</li>
     <li>The 4th Chinese Causal Inference Conference, July 2026</li>
     <li>The 8th Pacific Causal Inference Conference, July 2026</li>
