@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research & Awards"
-permalink: /research-awards/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -51,6 +51,7 @@ Awards and Honors
 Research Grants
 ------
 <ul>
+    <li>The NSFC General Program. "Robust causal inference under complex causal pathways". Grant No. 12671311. 2027.01–2030.12. Principal Investigator.</li>
     <li>The RUC Endurance Research Fund for Long-Term Basic Studies. "Statistical Foundations of Artificial Intelligence". Grant No. 26XNKJ31. 2026.07–2031.06. Principal Investigator.</li>
     <li>The NSFC Young Scientists Fund. "Statistical Inference Based on High-dimensional Semi-supervised Data". Grant No. 12301390. 2024.01–2026.12. Principal Investigator.</li>
     <li>The RUC Start-up Fund. "Semi-supervised Inference under Selection Bias". Grant No. 23XNKJ18. 2023.01–2025.12. Principal Investigator.</li>
