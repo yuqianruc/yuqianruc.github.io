@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuqian Zhang"
   avatar           : "3.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Associate Professor"
   location         : "Beijing"
   employer         : #"Renmin University of China"
   pubmed           : 
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  research-awards:
+  research:
     output: true
     permalink: /:collection/:path/
   #portfolio:
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: research-awards
+      type: research
     values:
       layout: single
       author_profile: true
