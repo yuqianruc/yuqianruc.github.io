@@ -18,6 +18,7 @@ Research Interests
 Publications (* corresponding, # alphabetical order, † equal contribution, ____ students)
 ------
 <ul>
+    <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for measuring the magnitude of treatment effect heterogeneity</a>. <i>Biometrics</i>, accepted. <i>(Yilizhati received the Third Prize for Outstanding Papers at the 9th National Statistics Doctoral Academic Forum.)</i></li>
     <li><b>Yuqian Zhang</b>, Weijie Ji, and Jelena Bradic (2026). <a href="https://arxiv.org/abs/2111.06818">Dynamic treatment effects: high-dimensional inference under model misspecification</a>. <i>Journal of the Royal Statistical Society: Series B</i>, accepted. <i>(This paper received the ICSA 2025 China Conference Junior Researcher Award.)</i></li>
     <li><b>Yuqian Zhang</b>†, Abhishek Chakrabortty†, and Jelena Bradic† (2026). <a href="https://ieeexplore.ieee.org/document/11611237">The decaying missing-at-random framework: model doubly robust causal inference with partially labeled data</a>. <i>IEEE Transactions on Information Theory</i>, accepted. https://doi.org/10.1109/TIT.2026.3713863.</li>
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://academic.oup.com/biometrics/article/81/3/ujaf113/8242109">Semi-supervised linear regression: enhancing efficiency and robustness in high dimensions</a>. <i>Biometrics</i>, 81(3), ujaf113. <i>(Kai received the Second Prize for Outstanding Papers at the 8th National Statistics Doctoral Academic Forum.)</i></li>
@@ -31,7 +32,6 @@ Preprints
 ------
 <ul>
     <li><ins>Zhen Qi</ins> and <b>Yuqian Zhang</b>* (2026). <a href="https://arxiv.org/abs/2601.22592">Quadruply robust methods for causal mediation analysis</a>. arXiv:2601.22592. Major revision at <i>Journal of the American Statistical Association</i>.</li>
-    <li><ins>Yilizhati Anniwaer</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2509.05048">Semi-supervised inference for treatment heterogeneity</a>. arXiv:2509.05048. Major revision at <i>Biometrics</i>. <i>(Yilizhati received the Third Prize for Outstanding Papers at the 9th National Statistics Doctoral Academic Forum.)</i></li>
     <li><ins>Kai Chen</ins> and <b>Yuqian Zhang</b>* (2025). <a href="https://arxiv.org/abs/2507.17360">Balancing utility and cost in dynamic treatment regimes</a>. arXiv:2507.17360. Major revision at <i>Journal of the Royal Statistical Society: Series B</i>.</li>
     <li><ins>Facheng Yu</ins>, <ins>Zhen Qi</ins>, and <b>Yuqian Zhang</b>* (2024). <a href="https://arxiv.org/abs/2411.15691">Semi-supervised inference using unlabeled summary statistics</a>. arXiv:2411.15691.</li>
     <li><b>Yuqian Zhang</b> and Jelena Bradic (2024). <a href="https://arxiv.org/abs/2407.08560">Causal inference through multi-stage learning and doubly robust deep neural networks</a>. arXiv:2407.08560.</li>
@@ -55,12 +55,15 @@ Research Grants
     <li>The RUC Endurance Research Fund for Long-Term Basic Studies. "Statistical Foundations of Artificial Intelligence". Grant No. 26XNKJ31. 2026.07–2031.06. Principal Investigator.</li>
     <li>The NSFC Young Scientists Fund. "Statistical Inference Based on High-dimensional Semi-supervised Data". Grant No. 12301390. 2024.01–2026.12. Principal Investigator.</li>
     <li>The RUC Start-up Fund. "Semi-supervised Inference under Selection Bias". Grant No. 23XNKJ18. 2023.01–2025.12. Principal Investigator.</li>
-    <li>The NSFC General Program. "Nonparametric Modeling and Inference for Continuous Treatment Effect". Grant No. 12371284. 2024.01–2027.12. Co-investigator (with Zheng Zhang).</li>
+    <li>The NSFC Key Program. "Complex Data Association Analysis". Grant No. 20261GZ0102. 2027.01–2031.12. Co-investigator.</li>
+    <li>The NSFC General Program. "Nonparametric Modeling and Inference for Continuous Treatment Effect". Grant No. 12371284. 2024.01–2027.12. Co-investigator.</li>
 </ul>
 
 Presentations
 ------
 <ul>
+    <li>School of Mathematics and Statistics, Beijing Institute of Technology, Oct 2026</li>
+    <li>Zhongnan University of Economics and Law Forum on Statistics and Data Science, Sep 2026</li>
     <li>Annual Conference of the FinTech and Big Data Technology Branch, National Society for Industrial
 Statistics Education and Research, August 2026</li>
     <li>Frontier Forum on Bayesian Statistics and Artificial Intelligence, August 2026</li>
